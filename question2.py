@@ -1,0 +1,10 @@
+# question 2
+print ("Enter your name")
+name = input()
+print ("Enter your SID")
+SID = (int) (input())
+print ("Enter your department name")
+dept_name = input()
+print ("Enter your CGPA")
+CGPA = (float)(input())
+print ("Hey,%s here! My SID is %s. I am from %s department and my CGPA is %s" %(name, SID, dept_name, CGPA))
